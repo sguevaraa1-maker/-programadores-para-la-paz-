@@ -1,0 +1,16 @@
+pwd
+ls
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+echo "" >>preguntas-semana2.txt
+echo "" >>reflexión-semana2.txt
+echo "" >>comandos-terminal.txt
+cat preguntas-semana2.txt
+cat reflexión-semana2.txt
+cat comandos-terminal.txt
+git add .
+git commit -m "Actividad semana2"
+git push origin Sebastian_Guevara
